@@ -4,3 +4,4 @@ Input image requirement : Histopathology Image<br/>
 Output: Lung Cancer Type or Normal report with Probability Score<br/>
 ML Algorithm: ResNet50
 </div>
+<div><img src="HDA_LungCancer_page-0001.jpg" title="Main Page"></div>
